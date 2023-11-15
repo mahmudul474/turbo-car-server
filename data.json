@@ -1,0 +1,859 @@
+[
+    {
+        "title": "Oil Change Service",
+        "description": "Keep your car running smoothly with our professional oil change service.",
+        "thumbnail": "https://kodesolution.com/html/2017/autocare-html/demo/images/about/1.jpg",
+        "images": [
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/1.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/2.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/portfolio/food5.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/blog/1.jpg"
+        ],
+        "pricing": {
+            "basePrice": 39.99
+        },
+        "availability": {
+            "days": [
+                "Monday",
+                "Wednesday",
+                "Friday"
+            ],
+            "hours": "9:00 AM - 5:00 PM"
+        },
+        "location": {
+            "address": "123 Main Street, Cityville, State, ZIP"
+        },
+        "contactInformation": {
+            "phone": "+123-456-7890",
+            "email": "info@yourcarshop.com"
+        },
+        "userReviews": [
+            {
+                "user": "John Doe",
+                "rating": 4.5,
+                "review": "Excellent service!"
+            }
+        ],
+        "relatedContent": [
+            {
+                "id": 2,
+                "title": "Tire Rotation Service",
+                "link": "/services/tire-rotation"
+            }
+        ],
+        "bookingOptions": {
+            "onlineBooking": true,
+            "phoneBooking": true
+        },
+        "shareButtons": [
+            "Facebook",
+            "Twitter",
+            "Instagram"
+        ],
+        "callToActionButtons": [
+            {
+                "text": "Book Now",
+                "link": "/book/oil-change"
+            }
+        ],
+        "additionalDetails": [
+            "Service time: Approximately 30 minutes"
+        ],
+        "userGeneratedContent": [
+            {
+                "user": "CarEnthusiast123",
+                "comment": "Impressed with the service!"
+            }
+        ]
+    },
+    {
+        "title": "Tire Rotation Service",
+        "description": "Ensure even tire wear and extend the life of your tires with our tire rotation service.",
+        "thumbnail": "https://kodesolution.com/html/2017/autocare-html/demo/images/about/2.jpg",
+        "images": [
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/1.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/2.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/portfolio/food5.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/blog/1.jpg"
+        ],
+        "pricing": {
+            "basePrice": 29.99
+        },
+        "availability": {
+            "days": [
+                "Tuesday",
+                "Thursday",
+                "Saturday"
+            ],
+            "hours": "10:00 AM - 6:00 PM"
+        },
+        "location": {
+            "address": "456 Oak Avenue, Townsville, State, ZIP"
+        },
+        "contactInformation": {
+            "phone": "+123-456-7891",
+            "email": "info@yourcarshop.com"
+        },
+        "userReviews": [
+            {
+                "user": "Jane Smith",
+                "rating": 5.0,
+                "review": "Highly recommended!"
+            }
+        ],
+        "relatedContent": [
+            {
+                "id": 1,
+                "title": "Oil Change Service",
+                "link": "/services/oil-change"
+            }
+        ],
+        "bookingOptions": {
+            "onlineBooking": true,
+            "phoneBooking": true
+        },
+        "shareButtons": [
+            "Facebook",
+            "Twitter",
+            "Instagram"
+        ],
+        "callToActionButtons": [
+            {
+                "text": "Book Now",
+                "link": "/book/tire-rotation"
+            }
+        ],
+        "additionalDetails": [
+            "Service time: Approximately 45 minutes"
+        ],
+        "userGeneratedContent": [
+            {
+                "user": "DriveSafe77",
+                "comment": "Great service and friendly staff!"
+            }
+        ]
+    },
+    {
+        "title": "Brake Inspection and Repair",
+        "description": "Ensure your safety with our thorough brake inspection and repair services.",
+        "thumbnail": "https://kodesolution.com/html/2017/autocare-html/demo/images/about/3.jpg",
+        "images": [
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/1.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/2.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/portfolio/food5.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/blog/1.jpg"
+        ],
+        "pricing": {
+            "basePrice": 49.99
+        },
+        "availability": {
+            "days": [
+                "Monday",
+                "Wednesday",
+                "Friday"
+            ],
+            "hours": "8:00 AM - 4:00 PM"
+        },
+        "location": {
+            "address": "789 Pine Street, Villagetown, State, ZIP"
+        },
+        "contactInformation": {
+            "phone": "+123-456-7892",
+            "email": "info@yourcarshop.com"
+        },
+        "userReviews": [
+            {
+                "user": "CarLover456",
+                "rating": 4.0,
+                "review": "Solid brake repair service!"
+            }
+        ],
+        "relatedContent": [
+            {
+                "id": 1,
+                "title": "Oil Change Service",
+                "link": "/services/oil-change"
+            },
+            {
+                "id": 2,
+                "title": "Tire Rotation Service",
+                "link": "/services/tire-rotation"
+            }
+        ],
+        "bookingOptions": {
+            "onlineBooking": true,
+            "phoneBooking": true
+        },
+        "shareButtons": [
+            "Facebook",
+            "Twitter",
+            "Instagram"
+        ],
+        "callToActionButtons": [
+            {
+                "text": "Book Now",
+                "link": "/book/brake-repair"
+            }
+        ],
+        "additionalDetails": [
+            "Service time: Approximately 1 hour"
+        ],
+        "userGeneratedContent": [
+            {
+                "user": "SafetyFirst123",
+                "comment": "Reliable brake repair service!"
+            }
+        ]
+    },
+    {
+        "title": "Brake Inspection and Repair",
+        "description": "Ensure your safety with our thorough brake inspection and repair services.",
+        "thumbnail": "https://kodesolution.com/html/2017/autocare-html/demo/images/about/4.jpg",
+        "images": [
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/1.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/2.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/portfolio/food5.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/blog/1.jpg"
+        ],
+        "pricing": {
+            "basePrice": 49.99
+        },
+        "availability": {
+            "days": [
+                "Monday",
+                "Wednesday",
+                "Friday"
+            ],
+            "hours": "8:00 AM - 4:00 PM"
+        },
+        "location": {
+            "address": "789 Pine Street, Villagetown, State, ZIP"
+        },
+        "contactInformation": {
+            "phone": "+123-456-7892",
+            "email": "info@yourcarshop.com"
+        },
+        "userReviews": [
+            {
+                "user": "CarLover456",
+                "rating": 4.0,
+                "review": "Solid brake repair service!"
+            }
+        ],
+        "relatedContent": [
+            {
+                "id": 1,
+                "title": "Oil Change Service",
+                "link": "/services/oil-change"
+            },
+            {
+                "id": 2,
+                "title": "Tire Rotation Service",
+                "link": "/services/tire-rotation"
+            }
+        ],
+        "bookingOptions": {
+            "onlineBooking": true,
+            "phoneBooking": true
+        },
+        "shareButtons": [
+            "Facebook",
+            "Twitter",
+            "Instagram"
+        ],
+        "callToActionButtons": [
+            {
+                "text": "Book Now",
+                "link": "/book/brake-repair"
+            }
+        ],
+        "additionalDetails": [
+            "Service time: Approximately 1 hour"
+        ],
+        "userGeneratedContent": [
+            {
+                "user": "SafetyFirst123",
+                "comment": "Reliable brake repair service!"
+            }
+        ]
+    },
+    {
+        "title": "Engine Diagnostic Service",
+        "description": "Identify and resolve engine issues with our advanced diagnostic services.",
+        "thumbnail": "https://kodesolution.com/html/2017/autocare-html/demo/images/about/7.jpg",
+        "images": [
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/1.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/2.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/portfolio/food5.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/blog/1.jpg"
+        ],
+        "pricing": {
+            "basePrice": 59.99
+        },
+        "availability": {
+            "days": [
+                "Tuesday",
+                "Thursday",
+                "Saturday"
+            ],
+            "hours": "10:00 AM - 6:00 PM"
+        },
+        "location": {
+            "address": "567 Maple Lane, Suburbia, State, ZIP"
+        },
+        "contactInformation": {
+            "phone": "+123-456-7893",
+            "email": "info@yourcarshop.com"
+        },
+        "userReviews": [
+            {
+                "user": "TechGeek321",
+                "rating": 4.8,
+                "review": "Impressive diagnostic capabilities!"
+            }
+        ],
+        "relatedContent": [
+            {
+                "id": 3,
+                "title": "Brake Inspection and Repair",
+                "link": "/services/brake-repair"
+            },
+            {
+                "id": 5,
+                "title": "Car Detailing Service",
+                "link": "/services/car-detailing"
+            }
+        ],
+        "bookingOptions": {
+            "onlineBooking": true,
+            "phoneBooking": true
+        },
+        "shareButtons": [
+            "Facebook",
+            "Twitter",
+            "Instagram"
+        ],
+        "callToActionButtons": [
+            {
+                "text": "Book Now",
+                "link": "/book/engine-diagnostic"
+            }
+        ],
+        "additionalDetails": [
+            "Service time: Depends on diagnostic findings"
+        ],
+        "userGeneratedContent": [
+            {
+                "user": "CarWhisperer",
+                "comment": "Great for finding hidden issues!"
+            }
+        ]
+    },
+    {
+        "title": "Car Detailing Service",
+        "description": "Restore your car's shine with our professional car detailing service.",
+        "thumbnail": "https://kodesolution.com/html/2017/autocare-html/demo/images/about/6.jpg",
+        "images": [
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/1.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/2.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/portfolio/food5.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/blog/1.jpg"
+        ],
+        "pricing": {
+            "basePrice": 79.99
+        },
+        "availability": {
+            "days": [
+                "Monday",
+                "Wednesday",
+                "Friday"
+            ],
+            "hours": "9:00 AM - 5:00 PM"
+        },
+        "location": {
+            "address": "890 Cedar Street, Downtown, State, ZIP"
+        },
+        "contactInformation": {
+            "phone": "+123-456-7894",
+            "email": "info@yourcarshop.com"
+        },
+        "userReviews": [
+            {
+                "user": "ShinyCarFan",
+                "rating": 5.0,
+                "review": "My car looks brand new!"
+            },
+            {
+                "user": "CleanMachine",
+                "rating": 4.7,
+                "review": "Excellent detailing service!"
+            }
+        ],
+        "relatedContent": [
+            {
+                "id": 4,
+                "title": "Engine Diagnostic Service",
+                "link": "/services/engine-diagnostic"
+            },
+            {
+                "id": 6,
+                "title": "Wheel Alignment Service",
+                "link": "/services/wheel-alignment"
+            }
+        ],
+        "bookingOptions": {
+            "onlineBooking": true,
+            "phoneBooking": true
+        },
+        "shareButtons": [
+            "Facebook",
+            "Twitter",
+            "Instagram"
+        ],
+        "callToActionButtons": [
+            {
+                "text": "Book Now",
+                "link": "/book/car-detailing"
+            }
+        ],
+        "additionalDetails": [
+            "Service time: Approximately 2-3 hours"
+        ],
+        "userGeneratedContent": [
+            {
+                "user": "GleamingRide",
+                "comment": "Fantastic job on my car! Highly recommended."
+            }
+        ]
+    },
+    {
+        "title": "Wheel Alignment Service",
+        "description": "Ensure optimal tire performance and even wear with our precise wheel alignment service.",
+        "thumbnail": "https://kodesolution.com/html/2017/autocare-html/demo/images/portfolio/food1.jpg",
+        "images": [
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/1.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/2.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/portfolio/food5.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/blog/1.jpg"
+        ],
+        "pricing": {
+            "basePrice": 49.99
+        },
+        "availability": {
+            "days": [
+                "Tuesday",
+                "Thursday",
+                "Saturday"
+            ],
+            "hours": "10:00 AM - 6:00 PM"
+        },
+        "location": {
+            "address": "234 Oak Street, Suburbia, State, ZIP"
+        },
+        "contactInformation": {
+            "phone": "+123-456-7895",
+            "email": "info@yourcarshop.com"
+        },
+        "userReviews": [
+            {
+                "user": "AlignmentPro",
+                "rating": 4.5,
+                "review": "Precise wheel alignment, smooth ride!"
+            },
+            {
+                "user": "SmoothOperator",
+                "rating": 5.0,
+                "review": "Great service for tire longevity!"
+            }
+        ],
+        "relatedContent": [
+            {
+                "id": 5,
+                "title": "Car Detailing Service",
+                "link": "/services/car-detailing"
+            },
+            {
+                "id": 7,
+                "title": "Battery Replacement Service",
+                "link": "/services/battery-replacement"
+            }
+        ],
+        "bookingOptions": {
+            "onlineBooking": true,
+            "phoneBooking": true
+        },
+        "shareButtons": [
+            "Facebook",
+            "Twitter",
+            "Instagram"
+        ],
+        "callToActionButtons": [
+            {
+                "text": "Book Now",
+                "link": "/book/wheel-alignment"
+            }
+        ],
+        "additionalDetails": [
+            "Service time: Approximately 45 minutes"
+        ],
+        "userGeneratedContent": [
+            {
+                "user": "SmoothRider",
+                "comment": "Noticeable improvement in handling! Great job."
+            }
+        ]
+    },
+    {
+        "title": "Battery Replacement Service",
+        "description": "Ensure your car starts reliably with our professional battery replacement service.",
+        "thumbnail": "https://kodesolution.com/html/2017/autocare-html/demo/images/portfolio/food5.jpg",
+        "images": [
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/1.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/2.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/portfolio/food5.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/blog/1.jpg"
+        ],
+        "pricing": {
+            "basePrice": 89.99
+        },
+        "availability": {
+            "days": [
+                "Monday",
+                "Wednesday",
+                "Friday"
+            ],
+            "hours": "9:00 AM - 5:00 PM"
+        },
+        "location": {
+            "address": "345 Maple Avenue, Downtown, State, ZIP"
+        },
+        "contactInformation": {
+            "phone": "+123-456-7896",
+            "email": "info@yourcarshop.com"
+        },
+        "userReviews": [
+            {
+                "user": "StartStrong",
+                "rating": 4.8,
+                "review": "Reliable battery replacement service!"
+            },
+            {
+                "user": "PowerOn",
+                "rating": 4.5,
+                "review": "Quick and efficient service."
+            }
+        ],
+        "relatedContent": [
+            {
+                "id": 6,
+                "title": "Wheel Alignment Service",
+                "link": "/services/wheel-alignment"
+            },
+            {
+                "id": 8,
+                "title": "Air Conditioning Service",
+                "link": "/services/air-conditioning"
+            }
+        ],
+        "bookingOptions": {
+            "onlineBooking": true,
+            "phoneBooking": true
+        },
+        "shareButtons": [
+            "Facebook",
+            "Twitter",
+            "Instagram"
+        ],
+        "callToActionButtons": [
+            {
+                "text": "Book Now",
+                "link": "/book/battery-replacement"
+            }
+        ],
+        "additionalDetails": [
+            "Service time: Approximately 1 hour"
+        ],
+        "userGeneratedContent": [
+            {
+                "user": "ChargeUp",
+                "comment": "New battery, smooth starts. Great job!"
+            }
+        ]
+    },
+    {
+        "title": "Air Conditioning Service",
+        "description": "Keep your car cool and comfortable with our air conditioning service.",
+        "thumbnail": "https://kodesolution.com/html/2017/autocare-html/demo/images/portfolio/food2.jpg",
+        "images": [
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/1.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/2.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/portfolio/food5.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/blog/1.jpg"
+        ],
+        "pricing": {
+            "basePrice": 69.99
+        },
+        "availability": {
+            "days": [
+                "Tuesday",
+                "Thursday",
+                "Saturday"
+            ],
+            "hours": "10:00 AM - 6:00 PM"
+        },
+        "location": {
+            "address": "456 Pine Street, Suburbia, State, ZIP"
+        },
+        "contactInformation": {
+            "phone": "+123-456-7897",
+            "email": "info@yourcarshop.com"
+        },
+        "userReviews": [
+            {
+                "user": "CoolDriver",
+                "rating": 4.7,
+                "review": "Refreshing air conditioning service!"
+            },
+            {
+                "user": "ChillRide",
+                "rating": 5.0,
+                "review": "Effective and quick service."
+            }
+        ],
+        "relatedContent": [
+            {
+                "id": 7,
+                "title": "Battery Replacement Service",
+                "link": "/services/battery-replacement"
+            },
+            {
+                "id": 9,
+                "title": "Transmission Fluid Change",
+                "link": "/services/transmission-fluid-change"
+            }
+        ],
+        "bookingOptions": {
+            "onlineBooking": true,
+            "phoneBooking": true
+        },
+        "shareButtons": [
+            "Facebook",
+            "Twitter",
+            "Instagram"
+        ],
+        "callToActionButtons": [
+            {
+                "text": "Book Now",
+                "link": "/book/air-conditioning-service"
+            }
+        ],
+        "additionalDetails": [
+            "Service time: Approximately 1.5 hours"
+        ],
+        "userGeneratedContent": [
+            {
+                "user": "CoolCruiser",
+                "comment": "A/C is now ice-cold. Great service!"
+            }
+        ]
+    },
+    {
+        "title": "Transmission Fluid Change",
+        "description": "Maintain smooth shifting with our professional transmission fluid change service.",
+        "thumbnail": "https://kodesolution.com/html/2017/autocare-html/demo/images/portfolio/food4.jpg",
+        "images": [
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/1.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/2.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/portfolio/food5.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/blog/1.jpg"
+        ],
+        "pricing": {
+            "basePrice": 59.99
+        },
+        "availability": {
+            "days": [
+                "Monday",
+                "Wednesday",
+                "Friday"
+            ],
+            "hours": "9:00 AM - 5:00 PM"
+        },
+        "location": {
+            "address": "567 Cedar Avenue, Villagetown, State, ZIP"
+        },
+        "contactInformation": {
+            "phone": "+123-456-7898",
+            "email": "info@yourcarshop.com"
+        },
+        "userReviews": [
+            {
+                "user": "SmoothShifter",
+                "rating": 4.6,
+                "review": "Noticeable improvement in shifting!"
+            },
+            {
+                "user": "ShiftMaster",
+                "rating": 4.8,
+                "review": "Great transmission service."
+            }
+        ],
+        "relatedContent": [
+            {
+                "id": 8,
+                "title": "Air Conditioning Service",
+                "link": "/services/air-conditioning-service"
+            },
+            {
+                "id": 10,
+                "title": "Windshield Wiper Replacement",
+                "link": "/services/windshield-wiper-replacement"
+            }
+        ],
+        "bookingOptions": {
+            "onlineBooking": true,
+            "phoneBooking": true
+        },
+        "shareButtons": [
+            "Facebook",
+            "Twitter",
+            "Instagram"
+        ],
+        "callToActionButtons": [
+            {
+                "text": "Book Now",
+                "link": "/book/transmission-fluid-change"
+            }
+        ],
+        "additionalDetails": [
+            "Service time: Approximately 1 hour"
+        ],
+        "userGeneratedContent": [
+            {
+                "user": "ShiftGuru",
+                "comment": "Smooth shifts, great service!"
+            }
+        ]
+    },
+    {
+        "title": "Windshield Wiper Replacement",
+        "description": "Ensure clear visibility with our windshield wiper replacement service.",
+        "thumbnail": "https://kodesolution.com/html/2017/autocare-html/demo/images/blog/1.jpg",
+        "images": [
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/1.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/about/2.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/portfolio/food5.jpg",
+            "https://kodesolution.com/html/2017/autocare-html/demo/images/blog/1.jpg"
+        ],
+        "pricing": {
+            "basePrice": 29.99
+        },
+        "availability": {
+            "days": [
+                "Tuesday",
+                "Thursday",
+                "Saturday"
+            ],
+            "hours": "10:00 AM - 6:00 PM"
+        },
+        "location": {
+            "address": "678 Maple Lane, Downtown, State, ZIP"
+        },
+        "contactInformation": {
+            "phone": "+123-456-7899",
+            "email": "info@yourcarshop.com"
+        },
+        "userReviews": [
+            {
+                "user": "ClearView",
+                "rating": 4.5,
+                "review": "Crystal-clear windshield now!"
+            },
+            {
+                "user": "RainMaster",
+                "rating": 4.7,
+                "review": "Quick and efficient wiper replacement."
+            }
+        ],
+        "relatedContent": [
+            {
+                "id": 9,
+                "title": "Transmission Fluid Change",
+                "link": "/services/transmission-fluid-change"
+            },
+            {
+                "id": 11,
+                "title": "Headlight Restoration",
+                "link": "/services/headlight-restoration"
+            }
+        ],
+        "bookingOptions": {
+            "onlineBooking": true,
+            "phoneBooking": true
+        },
+        "shareButtons": [
+            "Facebook",
+            "Twitter",
+            "Instagram"
+        ],
+        "callToActionButtons": [
+            {
+                "text": "Book Now",
+                "link": "/book/windshield-wiper-replacement"
+            }
+        ],
+        "additionalDetails": [
+            "Service time: Approximately 30 minutes"
+        ],
+        "userGeneratedContent": [
+            {
+                "user": "WiperWizard",
+                "comment": "New wipers, excellent visibility! Great service."
+            }
+        ]
+    }
+]
+
+
+
+
+
+[
+    {
+      "featureName": "Advanced Diagnostics",
+      "icon": "https://i.ibb.co/JnND8LT/car-repair-1.png",
+      "text": "Our car services include advanced diagnostic tools to identify and address issues with precision. Stay ahead with cutting-edge technology for your vehicle."
+    },
+    {
+      "featureName": "Express Service",
+      "icon": "https://i.ibb.co/WD3wy1b/maintenance.png",
+      "text": "Experience express service designed for your busy schedule. Our efficient processes ensure that your car receives quality care without compromising your time."
+    },
+    {
+      "featureName": "Transparent Pricing",
+      "icon": "https://i.ibb.co/QQDDXKg/tire.png",
+      "text": "At Your Car Services, we believe in transparency. Our pricing is straightforward, with no hidden costs. Know exactly what you're paying for with each service."
+    },
+    {
+      "featureName": "Personalized Care",
+      "icon": " https://i.ibb.co/zJcsZRW/technical-support.png",
+      "text": "Every car is unique, and so is our approach. Benefit from personalized care tailored to the specific needs of your vehicle. Your car, your care plan."
+    },
+    {
+      "featureName": "Online Booking",
+      "icon": "https://i.ibb.co/f0xmDB7/delivery-truck.png",
+      "text": "Book your car service with ease using our online booking system. Enjoy the convenience of scheduling appointments and managing your services online."
+    },
+    {
+      "featureName": "Customer Satisfaction",
+      "icon": "https://i.ibb.co/z6Xy0Zn/maintenance-1.png",
+      "text": "We prioritize your satisfaction. Our commitment is to deliver exceptional service that meets and exceeds your expectations. Drive away with confidence."
+    }
+  ]
+  
+  
+  
+ 
+ 
+
+  
+  
